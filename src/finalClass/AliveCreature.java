@@ -1,4 +1,4 @@
-package finalClass;
+package finalClass; 
 
 public class AliveCreature extends Date{
 	private String number ;
